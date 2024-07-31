@@ -52,5 +52,6 @@ class EmailService:
         await self.send_user_email({ # Send the email using the 'professional_status_update' template
             "name": user.first_name, # User's first name
             "email": user.email,  # User's email address
-            "professional_status": user.professional_status, # User's updated professional status
+            "is_professional": user.is_professional, # User's updated professional status
         }, 'professional_status_update')
+        
