@@ -79,7 +79,7 @@ Here is you can see the list of few tests that were able to create and the resul
 
 ## User Management – Update profile:
 Here is you can see a preview of the update profile implementation
-![LBYL](user-profile-management.png "User profile management")
+![LBYL](update-user-profile.png "Update user profile")
 
 ## User Management – Update professional value:
 Here is you can see a preview of the update professional value implementation
