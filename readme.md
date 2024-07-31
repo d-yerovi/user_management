@@ -76,3 +76,13 @@ Here is you can find the user created for testing the project
 ## Pytest:
 Here is you can see the list of few tests that were able to create and the results of all passing test
 ![LBYL](pytest.png "pytest")
+
+## User Management – Update profile:
+Here is you can see a preview of the update profile implementation
+![LBYL](user-profile-management.png "User profile management")
+
+## User Management – Update professional value:
+Here is you can see a preview of the update professional value implementation
+![LBYL](update-professional-value.png "Update professional value")
+
+
